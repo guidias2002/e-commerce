@@ -1,4 +1,4 @@
-package com.ecommerce.domain.order;
+package com.ecommerce.entities.order;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
